@@ -2,3 +2,7 @@ h1 {
     font-size: 45px;
     color: purple; 
 }
+p {
+    font-size: 30px;
+    text-transform: uppercase;
+}
